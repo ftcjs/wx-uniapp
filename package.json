@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "echarts": "^4.7.0"
+    "echarts": "^5.5.1"
   }
 }
